@@ -3,6 +3,15 @@ Collection of Python scripts focused on cybersecurity, network analysis and secu
 
 # Python Security Scripts
 
+## Included Tools
+
+- Port Scanner
+- Password Strength Checker
+- Network Scanner
+- IP Information Tool
+
+These scripts are created for educational purposes to understand cybersecurity and networking concepts.
+
 ## Overview
 
 This repository contains a collection of Python scripts designed for cybersecurity learning, network analysis, and basic security automation.
