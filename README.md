@@ -1,11 +1,16 @@
-# Python-security-scripts
-Collection of Python scripts focused on cybersecurity, network analysis and security automation.
+# 🔐 Python Security Scripts
 
-# Python Security Scripts
+Collection of Python scripts focused on **cybersecurity, network analysis, and security automation**.
 
-## Included Tools
+This repository contains practical Python tools created to explore fundamental cybersecurity techniques such as network scanning, log analysis, packet monitoring, and basic attack detection.
 
+These projects are designed for **learning, experimentation, and understanding how common security tools work internally.**
+
+---
+
+# 📂 Repository Structure
 python-security-scripts
+│
 ├── port_scanner.py
 ├── password_checker.py
 ├── network_scanner.py
@@ -13,55 +18,178 @@ python-security-scripts
 ├── log_analyzer.py
 ├── vulnerability_scanner.py
 ├── packet_sniffer.py
+├── password_cracker.py
+├── security_dashboard.py
+├── mini_siem.py
+├── network_attack_detector.py
 └── README.md
 
-These scripts are created for educational purposes to understand cybersecurity and networking concepts.
-
-## Overview
-
-This repository contains a collection of Python scripts designed for cybersecurity learning, network analysis, and basic security automation.
-
-The purpose of these scripts is to explore how programming can be used to analyze networks, identify vulnerabilities, and automate security-related tasks.
+---
 
 ---
 
-## Technologies Used
+# 🚀 Overview
 
-- Python
-- Networking Libraries
-- Socket Programming
-- Basic Security Automation
+This repository includes a collection of **Python-based cybersecurity utilities** developed as part of my learning journey in cybersecurity and network security.
 
----
+The tools simulate common security tasks performed by cybersecurity professionals such as:
 
-## Scripts Included
+- Network reconnaissance
+- Port scanning
+- Password security analysis
+- Traffic monitoring
+- Log analysis
+- Attack detection
 
-### Port Scanner
-A basic network port scanner developed using Python sockets to identify open ports on a target system.
-
-### Network Information Tool
-Script that retrieves basic network information such as IP addresses and host data.
-
-### Security Utilities
-Small utilities that help analyze network connectivity and security configurations.
+These scripts help demonstrate how **security automation and network analysis can be implemented using Python.**
 
 ---
 
-## Learning Goals
+# 🛠 Technologies Used
 
-- Understand how security tools work internally
-- Practice Python programming for cybersecurity
-- Improve networking and scripting skills
-- Explore automation in security testing
-
----
-
-## Disclaimer
-
-These scripts are intended **for educational purposes only** and should only be used on systems you have permission to test.
+- 🐍 Python
+- 🌐 Networking Concepts
+- 🔌 Socket Programming
+- 📊 Log Analysis
+- 🛡 Cybersecurity Fundamentals
+- ⚙ Security Automation
 
 ---
 
+# 🔎 Tools Included
+
+### 🔹 Port Scanner
+Scans a target system to detect open ports using Python sockets.
+
+Concepts demonstrated:
+- TCP connections
+- Network reconnaissance
+- Port scanning techniques
+
+---
+
+### 🔹 Password Strength Checker
+Analyzes password complexity based on common security policies.
+
+Concepts demonstrated:
+- Password policies
+- Input validation
+- Security best practices
+
+---
+
+### 🔹 Network Scanner
+Detects active devices in a local network.
+
+Concepts demonstrated:
+- Network enumeration
+- Host discovery
+- Local network analysis
+
+---
+
+### 🔹 IP Information Tool
+Retrieves information about domains and IP addresses.
+
+Concepts demonstrated:
+- DNS resolution
+- Host identification
+- Network information gathering
+
+---
+
+### 🔹 Log Analyzer
+Analyzes access logs to detect suspicious activity such as repeated login attempts.
+
+Concepts demonstrated:
+- Log analysis
+- Security monitoring
+- Suspicious activity detection
+
+---
+
+### 🔹 Vulnerability Scanner
+Checks common ports associated with known services and potential vulnerabilities.
+
+Concepts demonstrated:
+- Security auditing
+- Service discovery
+- Network exposure analysis
+
+---
+
+### 🔹 Packet Sniffer
+Captures and displays basic network packets using Python.
+
+Concepts demonstrated:
+- Network traffic monitoring
+- Packet analysis
+- Network inspection
+
+---
+
+### 🔹 Password Cracker Simulation
+Educational simulation of a brute-force password attack.
+
+Concepts demonstrated:
+- Brute force attacks
+- Password security
+- Attack simulation
+
+---
+
+### 🔹 Mini SIEM
+Simple security event monitoring tool that detects suspicious patterns in system logs.
+
+Concepts demonstrated:
+- Security monitoring
+- Event correlation
+- Intrusion detection
+
+---
+
+### 🔹 Network Attack Detector
+Detects potential network attacks such as port scanning based on traffic patterns.
+
+Concepts demonstrated:
+- Network behavior analysis
+- Intrusion detection
+- Reconnaissance detection
+
+---
+
+# 🎯 Learning Goals
+
+This project was created to:
+
+- Understand how cybersecurity tools work internally
+- Practice Python programming for security tasks
+- Improve networking and system security knowledge
+- Explore automation in cybersecurity analysis
+- Build a practical cybersecurity portfolio
+
+---
+
+# ⚠ Disclaimer
+
+These scripts are intended **strictly for educational purposes**.
+
+Do **not** use these tools on systems or networks without proper authorization.
+
+The author is not responsible for any misuse of these scripts.
+
+---
+
+# 👨‍💻 Author
+
+**Angel Jael Tolentino Altamirano**
+
+Computer Science Engineer  
+Cybersecurity Enthusiast  
+Cisco Networking Academy – Ethical Hacker Certified
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/angel-jael-tolentino-altamirano-b32555346
 ## Author
 
 Angel Jael Tolentino Altamirano  
