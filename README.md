@@ -183,17 +183,14 @@ The author is not responsible for any misuse of these scripts.
 
 ---
 
+---
+
 # 👨‍💻 Author
 
-**Angel Jael Tolentino Altamirano**
-
+Angel Jael Tolentino Altamirano  
 Computer Science Engineer  
 Cybersecurity Enthusiast  
-Cisco Networking Academy – Ethical Hacker Certified
 
+📍 Mexico  
 🔗 LinkedIn  
 https://www.linkedin.com/in/angel-jael-tolentino-altamirano-b32555346
-## Author
-
-Angel Jael Tolentino Altamirano  
-Computer Science Engineer | Cybersecurity Enthusiast
