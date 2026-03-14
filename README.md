@@ -1,4 +1,7 @@
 # 🔐 Python Security Scripts
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-red)
+![License](https://img.shields.io/badge/License-Educational-green)
 
 Collection of Python scripts focused on **cybersecurity, network analysis, and security automation**.
 
