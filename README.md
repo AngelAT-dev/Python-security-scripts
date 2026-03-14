@@ -5,10 +5,15 @@ Collection of Python scripts focused on cybersecurity, network analysis and secu
 
 ## Included Tools
 
-- Port Scanner
-- Password Strength Checker
-- Network Scanner
-- IP Information Tool
+python-security-scripts
+├── port_scanner.py
+├── password_checker.py
+├── network_scanner.py
+├── ip_info.py
+├── log_analyzer.py
+├── vulnerability_scanner.py
+├── packet_sniffer.py
+└── README.md
 
 These scripts are created for educational purposes to understand cybersecurity and networking concepts.
 
